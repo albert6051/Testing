@@ -1,0 +1,57 @@
+pcs,variable,value
+pc_1,Share of employees in agriculture (% of total employees),-0.01827385182515754
+pc_2,Share of employees in agriculture (% of total employees),-0.19051794542931758
+pc_3,Share of employees in agriculture (% of total employees),0.6587614114780042
+pc_4,Share of employees in agriculture (% of total employees),-0.7065220108012502
+pc_5,Share of employees in agriculture (% of total employees),0.1675849671643926
+pc_6,Share of employees in agriculture (% of total employees),-0.0013008287294906718
+pc_7,Share of employees in agriculture (% of total employees),-0.045401496797294674
+pc_8,Share of employees in agriculture (% of total employees),-0.009017789275669342
+pc_1,Nutrient nitrogen N (total),-0.12844621567834347
+pc_2,Nutrient nitrogen N (total),0.5292670517935475
+pc_3,Nutrient nitrogen N (total),-0.025379188518827152
+pc_4,Nutrient nitrogen N (total),0.034788510850210584
+pc_5,Nutrient nitrogen N (total),0.8341253928364535
+pc_6,Nutrient nitrogen N (total),0.02448517938792609
+pc_7,Nutrient nitrogen N (total),-0.014634718006108395
+pc_8,Nutrient nitrogen N (total),0.0703188730803106
+pc_1,Nutrient phosphate P2O5 (total),-0.06056906121922649
+pc_2,Nutrient phosphate P2O5 (total),0.5687948570552596
+pc_3,Nutrient phosphate P2O5 (total),0.01352279425687025
+pc_4,Nutrient phosphate P2O5 (total),-0.21779697532097267
+pc_5,Nutrient phosphate P2O5 (total),-0.3386811797441234
+pc_6,Nutrient phosphate P2O5 (total),-0.7143359520844429
+pc_7,Nutrient phosphate P2O5 (total),-0.0038910802240050197
+pc_8,Nutrient phosphate P2O5 (total),-0.013765047346893105
+pc_1,Nutrient potash K2O (total),-0.19521707007874944
+pc_2,Nutrient potash K2O (total),0.5131191202292437
+pc_3,Nutrient potash K2O (total),-0.07398890764329599
+pc_4,Nutrient potash K2O (total),-0.2926910335640735
+pc_5,Nutrient potash K2O (total),-0.3673004435208335
+pc_6,Nutrient potash K2O (total),0.686525806822037
+pc_7,Nutrient potash K2O (total),0.026595091393921653
+pc_8,Nutrient potash K2O (total),0.022848770043056663
+pc_1,Agriculture Production,0.5385942627153766
+pc_2,Agriculture Production,0.21568829720808916
+pc_3,Agriculture Production,0.1929023276388189
+pc_4,Agriculture Production,0.1356624074619967
+pc_5,Agriculture Production,-0.002268541797731382
+pc_6,Agriculture Production,0.10478018316262772
+pc_7,Agriculture Production,-0.304398833656608
+pc_8,Agriculture Production,-0.710025702924697
+pc_1,Agricultural land,0.5460428621196766
+pc_2,Agricultural land,0.028369137591600754
+pc_3,Agricultural land,-0.24060731227987542
+pc_4,Agricultural land,-0.2158576841622914
+pc_5,Agricultural land,0.011082700145199574
+pc_6,Agricultural land,0.024611488782748492
+pc_7,Agricultural land,-0.5401751769938197
+pc_8,Agricultural land,0.5513875159659414
+pc_1,Land area,0.4706419909262873
+pc_2,Land area,-0.02680950821241056
+pc_3,Land area,-0.3853469097259387
+pc_4,Land area,-0.3787048334124064
+pc_5,Land area,0.11582412783647163
+pc_6,Land area,-0.009370459945796066
+pc_7,Land area,0.6767203926011194
+pc_8,Land area,-0.12005936485843859
